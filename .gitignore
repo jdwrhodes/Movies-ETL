@@ -10,6 +10,9 @@ ratings.csv
 # C extensions
 *.so
 
+# ratings
+Resources/ratings.csv
+
 # Distribution / packaging
 .Python
 build/
