@@ -2,4 +2,4 @@
 
 ## Purpose
 
-This project was to import movie and ratings data from csv and json files, clean, transform, and export into a prostgres database.
+This project was to import movie and ratings data from csv and json files. Once imported the data was cleaned, transformed, and exported into a prostgres database.
